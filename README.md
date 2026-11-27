@@ -16,3 +16,4 @@ Longitudinal MRI data in nondemented and demented older adults",
 ## Progress so far
 - Loaded and explored the data
 - Found missing values in SES and MMSE; handling decided in `FirstLook.ipynb`
+- Extracted the baseline (first-visit) data and generated summary histograms and charts
